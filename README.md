@@ -8,3 +8,8 @@ Requirements:
 
 Run:
 #python decompress.py
+
+Donate to: 
+3MNAKj3xjJRRjfMtdSfgNZsKAYXjSNeXtg (Bitcoin)
+
+0x7C30373526d1A09A406DEE3D653ac6BD4e1978c9 (Etherum / USDT)
